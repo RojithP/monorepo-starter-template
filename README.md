@@ -1,0 +1,1 @@
+# MonoRepo Starter Template
